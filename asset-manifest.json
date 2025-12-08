@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/cdtc_external_portal/static/css/main.7115aa2f.css",
-    "main.js": "/cdtc_external_portal/static/js/main.e11d4a97.js",
-    "static/js/453.5f064255.chunk.js": "/cdtc_external_portal/static/js/453.5f064255.chunk.js",
-    "static/media/1.png": "/cdtc_external_portal/static/media/1.8303f7c640adc8b081d1.png",
-    "static/media/4.png": "/cdtc_external_portal/static/media/4.5b698705be6a36a3ba6b.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/cdtc_external_portal/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/3.png": "/cdtc_external_portal/static/media/3.7f665e18dc00f49a8127.png",
-    "static/media/2.png": "/cdtc_external_portal/static/media/2.21df41109768493fcc3b.png",
-    "static/media/CDTC official logo.png": "/cdtc_external_portal/static/media/CDTC official logo.78caa61b5f53729c9ab7.png",
-    "static/media/fontawesome-webfont.eot": "/cdtc_external_portal/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/cdtc_external_portal/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/cdtc_external_portal/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/cdtc_external_portal/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/cdtc_external_portal/index.html",
-    "main.7115aa2f.css.map": "/cdtc_external_portal/static/css/main.7115aa2f.css.map",
-    "main.e11d4a97.js.map": "/cdtc_external_portal/static/js/main.e11d4a97.js.map",
-    "453.5f064255.chunk.js.map": "/cdtc_external_portal/static/js/453.5f064255.chunk.js.map"
+    "main.css": "/cdtc_external_dashboard/static/css/main.5afab40f.css",
+    "main.js": "/cdtc_external_dashboard/static/js/main.32f5af90.js",
+    "static/js/453.5f064255.chunk.js": "/cdtc_external_dashboard/static/js/453.5f064255.chunk.js",
+    "static/media/1.png": "/cdtc_external_dashboard/static/media/1.8303f7c640adc8b081d1.png",
+    "static/media/4.png": "/cdtc_external_dashboard/static/media/4.5b698705be6a36a3ba6b.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/cdtc_external_dashboard/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/3.png": "/cdtc_external_dashboard/static/media/3.7f665e18dc00f49a8127.png",
+    "static/media/2.png": "/cdtc_external_dashboard/static/media/2.21df41109768493fcc3b.png",
+    "static/media/CDTC official logo.png": "/cdtc_external_dashboard/static/media/CDTC official logo.78caa61b5f53729c9ab7.png",
+    "static/media/fontawesome-webfont.eot": "/cdtc_external_dashboard/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/cdtc_external_dashboard/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/cdtc_external_dashboard/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/cdtc_external_dashboard/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/cdtc_external_dashboard/index.html",
+    "main.5afab40f.css.map": "/cdtc_external_dashboard/static/css/main.5afab40f.css.map",
+    "main.32f5af90.js.map": "/cdtc_external_dashboard/static/js/main.32f5af90.js.map",
+    "453.5f064255.chunk.js.map": "/cdtc_external_dashboard/static/js/453.5f064255.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7115aa2f.css",
-    "static/js/main.e11d4a97.js"
+    "static/css/main.5afab40f.css",
+    "static/js/main.32f5af90.js"
   ]
 }
