@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cdtc_external_dashboard/static/css/main.7a444bbf.css",
-    "main.js": "/cdtc_external_dashboard/static/js/main.3cfeb448.js",
+    "main.js": "/cdtc_external_dashboard/static/js/main.fb4ffe3b.js",
     "static/js/453.5f064255.chunk.js": "/cdtc_external_dashboard/static/js/453.5f064255.chunk.js",
     "static/media/1.jpg": "/cdtc_external_dashboard/static/media/1.519e94cad7d69bfdc878.jpg",
     "static/media/1.png": "/cdtc_external_dashboard/static/media/1.8303f7c640adc8b081d1.png",
@@ -18,11 +18,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/cdtc_external_dashboard/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/cdtc_external_dashboard/index.html",
     "main.7a444bbf.css.map": "/cdtc_external_dashboard/static/css/main.7a444bbf.css.map",
-    "main.3cfeb448.js.map": "/cdtc_external_dashboard/static/js/main.3cfeb448.js.map",
+    "main.fb4ffe3b.js.map": "/cdtc_external_dashboard/static/js/main.fb4ffe3b.js.map",
     "453.5f064255.chunk.js.map": "/cdtc_external_dashboard/static/js/453.5f064255.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a444bbf.css",
-    "static/js/main.3cfeb448.js"
+    "static/js/main.fb4ffe3b.js"
   ]
 }
